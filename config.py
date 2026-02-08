@@ -1,6 +1,6 @@
 WIDTH = 960
 HEIGHT = 540
-TITLE = "Gladiador Arena"
+TITLE = "EvilArena"
 
 MENU = "menu"
 PLAYING = "playing"
