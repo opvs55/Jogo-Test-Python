@@ -109,7 +109,7 @@ def update(dt):
 
 def draw_menu():
     screen.fill(BG_COLOR)
-    screen.draw.text("GLADIADOR ARENA", center=(WIDTH // 2, 110), fontsize=64, color="white")
+    screen.draw.text("Evil ARENA", center=(WIDTH // 2, 110), fontsize=64, color="white")
     screen.draw.filled_rect(btn_start, (60, 90, 140))
     screen.draw.filled_rect(btn_sound, (60, 90, 140))
     screen.draw.filled_rect(btn_exit, (130, 65, 65))
