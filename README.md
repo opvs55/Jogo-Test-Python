@@ -13,3 +13,8 @@ Objetivos
 - jogo sem ataque direto para encurtar código
 
 
+Guia para instalação:
+
+- Baixe o repositório
+- vá até a pasta raiz
+- rode via terminal python game.py
